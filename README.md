@@ -68,15 +68,25 @@ We have also included **stored procedures** for reusable queries and **triggers*
 
 Online_Food_Ordering_System  
 ├── SQL_Scripts 
+
 │   ├── createTable.sql
+
 │   ├── insertTable.sql 
+
 │   ├── queries.sql
+
 │   ├── stored_procedures.sql
+
 │   └── triggers.sql
+
 ├── Screenshots 
+
 │   └── (All SQL query outputs) 
+
 ├── Report
+
 │   └── DBMS_MiniProject.pdf
+
 └── README.md
 
 
